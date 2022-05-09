@@ -19,7 +19,7 @@
 
 .body__textarea {
     display: block;
-    width: 100%;
+    width: 730px;
     height: 280px;
     padding: 16px;
     font-size: 18px;
@@ -31,27 +31,22 @@
 }
 
 .keyboard {
-    width: 100%;
+    width: 730px;
     background-color: #d9d9d9;
-    padding: 10px 6px 6px;
+    padding: 8px 6px 6px;
     margin-bottom: 24px;
     border-radius: 8px;
     border: 2px solid black;
-}
-
-.keyboard__row {
-    width: 100%;
-    margin-bottom: 5px;
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
+    gap: 3.6px;
+    flex-wrap: wrap;
 }
 
 .keyboard__key {
     width: 40px;
     height: 40px;
-    
+    margin-bottom: 3.6px;
     text-align: center;
     border-radius: 5px;
     cursor: pointer;
