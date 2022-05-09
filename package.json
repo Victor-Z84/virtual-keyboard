@@ -1,0 +1,19 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "Educational project at Rolling Scope School",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Z84/virtual-keyboard.git"
+  },
+  "author": "Viktar Zdvizhkou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Z84/virtual-keyboard/issues"
+  },
+  "homepage": "https://github.com/Victor-Z84/virtual-keyboard#readme"
+}
